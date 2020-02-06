@@ -1,0 +1,22 @@
+{
+  "name": "weather-3",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "engines": {
+    "node": "v8.10.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}

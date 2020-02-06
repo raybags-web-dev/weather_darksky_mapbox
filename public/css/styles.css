@@ -1,0 +1,85 @@
+.main-content {
+   background-color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   max-width: 1000px;
+   margin-top: 20px;
+   padding: 0rem;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-left: 15%;
+
+}
+
+footer {
+   color: black;
+   border-top: 1px solid #585555;
+   margin-top: 58px;
+   border-style: hidden;
+   border-right: 100%;
+   padding: 10px 0;
+}
+
+.foo_text{
+   color: rgb(3, 37, 11);
+   flex-grow: 1;
+   padding: 0;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-style: oblique;
+   margin-left: 43%;
+
+}
+
+h1 {
+   font-size: 64px;
+   margin-bottom: 16px;
+}
+
+header a {
+   justify-content: center;
+   align-items: center;
+   font-style: italic;
+   color: #080808;
+   margin-right: 50px;
+   text-size-adjust: 10px;
+   text-decoration: none;
+}
+
+.place_holder{
+   font-style: italic;
+   color: black;
+   background-color: rgb(204, 237, 240);
+}
+
+.weather_results{
+   color: rgb(3, 37, 11);
+   flex-grow: 1;
+   padding: 0;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-style: oblique;
+   margin-left: 20%;
+
+
+}
+
+.portrait {
+   width: 100px;
+}
+
+input {
+   border: 1px solid #cccccc;
+   padding: 8px;
+}
+
+button {
+   cursor: pointer;
+   border: 1px solid #888888;
+   background: #888888;
+   color: white;
+   padding: 8px;
+}

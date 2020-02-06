@@ -1,0 +1,67 @@
+* {
+   margin: 10;
+   padding: 0;
+}
+
+header a {
+   color: rgb(22, 22, 241);
+   margin: 1em;
+   padding: 0rem;
+   margin-right: 3px;
+   text-decoration: none;
+   font-style: italic;
+   font-size: 10px;
+   justify-content: center;
+}
+
+.code {
+   color: rgb(29, 28, 28);
+   font-style: oblique;
+   text-align-last: center;
+}
+
+.foo {
+   color: rgb(8, 8, 8);
+   font-style: oblique;
+   text-align-last: center;
+   margin-top: 141px;
+}
+
+.err1 {
+   justify-content: center;
+   text-align: center;
+   font-style: italic;
+   font-size: 1em;
+   text-transform: capitalize;
+   color: rgb(165, 42, 69);
+}
+
+.title {
+   text-align: center;
+   color: rgb(8, 8, 8);
+}
+
+.searchTerm:focus {
+   color: rgb(10, 10, 10);
+   font-size: 10px;
+}
+
+.error_input_button {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.searchTerm {
+   text-decoration: cadetblue;
+   font-style: italic;
+}
+
+.err-col {
+   justify-content: center;
+   text-align: center;
+   font-style: italic;
+   font-size: 1em;
+   text-transform: capitalize;
+   color: rgb(165, 42, 69);
+}
